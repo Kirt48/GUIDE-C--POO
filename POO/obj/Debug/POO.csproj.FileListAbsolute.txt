@@ -1,0 +1,8 @@
+C:\Users\caval\source\repos\POO-GUIDE\POO\bin\Debug\POO.exe.config
+C:\Users\caval\source\repos\POO-GUIDE\POO\bin\Debug\POO.exe
+C:\Users\caval\source\repos\POO-GUIDE\POO\bin\Debug\POO.pdb
+C:\Users\caval\source\repos\POO-GUIDE\POO\obj\Debug\POO.csproj.AssemblyReference.cache
+C:\Users\caval\source\repos\POO-GUIDE\POO\obj\Debug\POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\caval\source\repos\POO-GUIDE\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\caval\source\repos\POO-GUIDE\POO\obj\Debug\POO.exe
+C:\Users\caval\source\repos\POO-GUIDE\POO\obj\Debug\POO.pdb
